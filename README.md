@@ -89,5 +89,8 @@ Test Wordpress space for CodeGraphic website
 8. **Access to Local WordPress Site:**
     - Open your web browser and navigate to `http://localhost/codegraphic` to access your local WordPress site.
 
+> [!NOTE]
+> You can open project on [wp-admin page](http://localhost/codegraphic/wp-admin) with `admin` username & `fWu74D!S8Z*O%BBO(f` password
+
 ### Finish Up!
 Everything is set up and ready to go!
